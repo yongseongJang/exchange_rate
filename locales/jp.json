@@ -1,0 +1,17 @@
+{
+  "Guide.message": "対応する通貨を提案するために、位置情報を共有してください。",
+  "continue": "続ける",
+  "next": "次へ",
+  "counter currency": "相手通貨",
+  "base currencies": "基軸通貨",
+  "search": "検索",
+  "rate": "為替レート",
+  "calculate": "計算",
+  "app version": "アプリのバージョン",
+  "mode": "モード",
+  "language": "言語",
+  "english": "英語",
+  "korean": "韓国語",
+  "japanese": "日本語",
+  "chinese": "中国語"
+}

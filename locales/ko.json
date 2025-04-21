@@ -1,0 +1,17 @@
+{
+  "Guide.message": "상대 통화를 제시해 드리기 위해서 위치 정보를 공유해주세요.",
+  "continue": "계속",
+  "next": "다음",
+  "counter currency": "상대 통화",
+  "base currencies": "기준 통화",
+  "search": "검색",
+  "rate": "환율",
+  "calculate": "계산",
+  "app version": "앱 버전",
+  "mode": "모드",
+  "language": "언어",
+  "english": "영어",
+  "korean": "한국어",
+  "japanese": "일본어",
+  "chinese": "중국어"
+}
